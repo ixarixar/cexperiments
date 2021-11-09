@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 5.0.2, 2021-11-07T21:01:57. -->
+<!-- Written by QtCreator 5.0.2, 2021-11-09T17:01:24. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -69,15 +69,12 @@
    </valuemap>
    <valuemap type="QVariantMap" key="AutoTest.CheckStates">
     <value type="Qt::CheckState" key="1@C:/Users/jarek/projects_cpp/cexperiments/Tests/FaceTests.cpp:FaceTest">Checked</value>
+    <value type="Qt::CheckState" key="1@C:/Users/jarek/projects_cpp/cexperiments/Tests/FaceTests.cpp:shallPresentDaysOnChange">Checked</value>
     <value type="Qt::CheckState" key="1@C:/Users/jarek/projects_cpp/cexperiments/Tests/FaceTests.cpp:shallPresentHoursOnChange">Checked</value>
     <value type="Qt::CheckState" key="1@C:/Users/jarek/projects_cpp/cexperiments/Tests/FaceTests.cpp:shallPresentMinutesOnChange">Checked</value>
+    <value type="Qt::CheckState" key="1@C:/Users/jarek/projects_cpp/cexperiments/Tests/FaceTests.cpp:shallPresentMonthsOnChange">Checked</value>
     <value type="Qt::CheckState" key="1@C:/Users/jarek/projects_cpp/cexperiments/Tests/FaceTests.cpp:shallPresentSecondsOnChange">Checked</value>
-    <value type="Qt::CheckState" key="1@C:/Users/jarek/projects_cpp/cexperiments/Tests/WatchTests.cpp:WatchTest">Checked</value>
-    <value type="Qt::CheckState" key="1@C:/Users/jarek/projects_cpp/cexperiments/Tests/WatchTests.cpp:shallChangeHours">Checked</value>
-    <value type="Qt::CheckState" key="1@C:/Users/jarek/projects_cpp/cexperiments/Tests/WatchTests.cpp:shallChangeMinutes">Checked</value>
-    <value type="Qt::CheckState" key="1@C:/Users/jarek/projects_cpp/cexperiments/Tests/WatchTests.cpp:shallChangeSeconds">Checked</value>
-    <value type="Qt::CheckState" key="1@C:/Users/jarek/projects_cpp/cexperiments/Tests/WatchTests.cpp:shallChangeTime">Checked</value>
-    <value type="Qt::CheckState" key="1@C:/Users/jarek/projects_cpp/cexperiments/Tests/WatchTests.cpp:shallStartNewDay">Checked</value>
+    <value type="Qt::CheckState" key="1@C:/Users/jarek/projects_cpp/cexperiments/Tests/FaceTests.cpp:shallPresentYearsOnChange">Checked</value>
    </valuemap>
    <value type="int" key="AutoTest.RunAfterBuild">0</value>
    <value type="bool" key="AutoTest.UseGlobal">true</value>
@@ -303,9 +300,9 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">WatchApp</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.WatchApp</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">WatchApp</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">CalcApp</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.CalcApp</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">CalcApp</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
@@ -320,9 +317,9 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">WatchTests</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.WatchTests</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">WatchTests</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">CalcTests</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.CalcTests</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">CalcTests</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
